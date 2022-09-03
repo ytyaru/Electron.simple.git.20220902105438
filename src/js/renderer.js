@@ -36,7 +36,7 @@ window.addEventListener('DOMContentLoaded', async(event) => {
         }
     }
     document.querySelector('#push-test').addEventListener('click', async()=>{
-        await git.push('追記', setting)
+        await git.push()
     })
     document.querySelector('#post').addEventListener('click', async()=>{
         document.getElementById('post-list').innerHTML = 

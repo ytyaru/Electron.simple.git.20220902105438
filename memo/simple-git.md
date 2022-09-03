@@ -69,6 +69,14 @@ npm start
     1. <kbd>F5</kbd>キーでリロードし、そのページに`https://ytyaru.github.io/リポジトリ名/`のリンクが表示されるまでくりかえす（***数分かかる***）
     1. `https://ytyaru.github.io/リポジトリ名/`のリンクを参照する（デプロイ完了してないと404エラー）
 
+　すべて完了したリポジトリとそのサイトが以下。
+
+* [作成DEMO][]
+* [作成リポジトリ][]
+
+[作成DEMO]:https://ytyaru.github.io/Electron.simple.git.Upload.Test.20220902105438/
+[作成リポジトリ]:https://github.com/ytyaru/Electron.simple.git.Upload.Test.20220902105438
+
 # 経緯
 
 　[][]のとき、なぜか一部ファイル、モナコイン用画像ファイルが`push`されなかった。原因不明。別の方法で`push`できないかと思いググってみたところ[simple-git][]を見つけたので試してみることにした。
